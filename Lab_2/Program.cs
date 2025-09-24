@@ -7,6 +7,58 @@ namespace Lab2_Lepilkin_ISP_232
     {
         static void Main(string[] args)
         {
+            //double a = 10;
+            //double b = 3;
+            //double c = a / b;
+            //Console.WriteLine(c);
+
+            //double x = 10 / 3;
+            //Console.WriteLine(x);
+
+            //int x1 = 4;
+            //int y1 = ++x1;
+            //Console.WriteLine($"x1-{x1},y1-{y1}");
+
+            //int x2 = 4;
+            //int y2 = x2++; .
+            //Console.WriteLine($"x2={x2},y2={y2}");
+
+            //int x = 1;
+            //Console.WriteLine((10/5) * 2);
+
+            //bool x1 = (5 > 6) || (4 < 7);
+            //bool x2 = (5 > 6) && (4 < 7);
+
+            //double number = 4.4656423;
+            //Console.WriteLine($"{number:F2}");
+            //Console.WriteLine($"{number:C}");
+            //Console.WriteLine($"{number:P}");
+
+            //int number = int.Parse(Console.ReadLine());
+            //if (number > 0){
+            //Console.WriteLine("Положиетльное");
+            // else if(number<0) {
+            //Console.WriteLine("jnhbwfntkmyj");
+            // else {Console.WriteLine("число ноль") };
+
+            //int x = 3;
+            //int y = 2;
+            //int z = (x > y) ? (x + y) : (x - y);
+
+            //Console.WriteLine("Введите вашу игру");
+            //string input = Console.ReadLine().ToLower();
+            //switch (input) {
+            //case "doka2":
+            //Console.WriteLine("Ваша игра - doka 2");
+            //goto case "minekampf";
+            //break;
+            //case "minekampf":
+            //Console.WriteLine("Ваша Игра - minekampf");
+            //break;
+            //default:
+            //Console.WriteLine("Не найдена");
+            //break;
+
             // задание 1
             //string n = Console.ReadLine();
             //int ni = Convert.ToInt32(n);
