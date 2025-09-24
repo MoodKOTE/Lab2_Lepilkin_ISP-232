@@ -38,7 +38,7 @@ namespace Lab2_Lepilkin_ISP_232
             //if (number > 0){
             //Console.WriteLine("Положиетльное");
             // else if(number<0) {
-            //Console.WriteLine("jnhbwfntkmyj");
+            //Console.WriteLine("");
             // else {Console.WriteLine("число ноль") };
 
             //int x = 3;
@@ -48,12 +48,12 @@ namespace Lab2_Lepilkin_ISP_232
             //Console.WriteLine("Введите вашу игру");
             //string input = Console.ReadLine().ToLower();
             //switch (input) {
-            //case "doka2":
-            //Console.WriteLine("Ваша игра - doka 2");
-            //goto case "minekampf";
+            //case "dota2":
+            //Console.WriteLine("Ваша игра - dota 2");
+            //goto case "minecraft";
             //break;
-            //case "minekampf":
-            //Console.WriteLine("Ваша Игра - minekampf");
+            //case "minecraft":
+            //Console.WriteLine("Ваша Игра - minecraft");
             //break;
             //default:
             //Console.WriteLine("Не найдена");
